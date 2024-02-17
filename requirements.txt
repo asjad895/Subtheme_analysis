@@ -1,0 +1,10 @@
+nltk
+spacy
+pandas
+numpy
+matplotlib
+langchain
+openai
+python-dotenv
+langchain-google-genai 
+pillow

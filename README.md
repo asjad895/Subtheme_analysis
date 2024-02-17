@@ -6,4 +6,5 @@
 
 * clone Repo
 * reate env ```conda create --name myenv```
-* act
+* activate env ```conda activate myenv```
+* install requirements ```pip install -r requirements.txt```
